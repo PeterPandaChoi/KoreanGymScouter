@@ -3,3 +3,6 @@
 
 # 실행화면
 ![4234123](https://github.com/PeterPandaChoi/KoreanGymScouter/assets/29675266/6596217a-a77e-47e4-81a1-f37e4b7365fc)
+
+# 알고리듬 설명
+블로그 : https://blog.naver.com/panda_university/223291491320
